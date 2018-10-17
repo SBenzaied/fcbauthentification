@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fcbauthentification</string>
+
+    <string name="facebook_app_id">282683965920671</string> <string name="fb_login_protocol_scheme">fb282683965920671</string>
+    <string name="se_deconnecter_avec_google">Se deconnecter avec Google</string>
+
+</resources>
